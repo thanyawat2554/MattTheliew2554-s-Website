@@ -10,7 +10,7 @@ I'm Fluent in Markdown, Lua And Sometimes Python and Basic.
 
 ### What team i work for?
 
-I work at [Putter Productions]() Which is A Team that Creates Transport Videos As the Wierdly named Event Co-Coordinator.
+I work at [Putter Productions]() Which is A Team that Creates Transport Videos As the Weirdly named Event Co-Coordinator.
 
 ### Links
 
