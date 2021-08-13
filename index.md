@@ -12,18 +12,6 @@ I'm Fluent in Markdown, Lua And Sometimes Python and Basic.
 
 I work at [Putter Productions](https://discord.gg/proputterplayz) Which is A Team that Creates Transport Videos As an Event Coordiator.
 
-### Links
+### [Links](https://matttheliew2554.github.io/Web-Links/)
 
-Here are The links For anything i use.
-
-[Roblox](https://web.roblox.com/users/389353170/profile)
-
-[Youtube](https://www.youtube.com/channel/UCkdFVSeh2SLVRKr0nDgTXWg)
-
-[Twitter](https://twitter.com/liew2554)
-
-[Instagram](https://www.instagram.com/matttheliew2554/)
-
-Github is Below, Which is why i dont link it here. :p  
-
-[Fandom](https://community.fandom.com/wiki/User:Robloxl2554)
+### Thanks For Taking Time To Read This Repository, And As Always, Stay creative.
