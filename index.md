@@ -9,9 +9,9 @@ I'm Matt Andrews. I create Games on Roblox (Sometimes) But this Github Page Has 
 
 I'm Fluent in Markdown, Lua And Sometimes Python and Basic.
 
-### What team i Work for?
+### What Team I Work for?
 
-I work at [Putter Productions](https://discord.gg/proputterplayz) Which is A Team that Creates Transport Videos As an Event Coordiator.
+I work at [Putter Productions](https://discord.gg/proputterplayz) Which is A Team that Creates Transport Videos As a Community Manager.
 
 ### [Links](https://matttheliew2554.github.io/Web-Links/)
 
