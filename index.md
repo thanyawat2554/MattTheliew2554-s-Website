@@ -11,8 +11,8 @@ I'm Fluent in Markdown, Lua And Sometimes Python and Basic.
 
 ### What Team I Work for?
 
-I work at [Putter Productions](https://discord.gg/proputterplayz) Which is A Team that Creates Transport Videos As a Community Manager.
+I formenly worked at [Putter Productions](https://discord.gg/proputterplayz) But now i do freelance stuff on the internet.
 
-### [Links](https://matttheliew2554.github.io/Web-Links/)
+### [Click me to show Matt's Links](https://matttheliew2554.github.io/Web-Links/)
 
 ### Thanks For Taking Time To Read This Repository, And As Always, Stay creative.
