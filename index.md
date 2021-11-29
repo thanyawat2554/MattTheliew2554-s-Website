@@ -1,18 +1,14 @@
 # MattTheliew2554
 ## Hey There! 👋
 
-I'm a Time to Time Roblox Developer. And Programming is My Hobby.
+Welcome To My Page, I'm Matt. The guy who created the "Weekly Dose Of SCR" Sequel
 
-### About Me
+I like UI Design, Playing Roblox Games, or Making Some Pizza
 
-I'm Matt Andrews. I create Games on Roblox (Sometimes) But this Github Page Has Anything You need To know about me and Website Updates.
+## Where Can You Find Me? 👀
 
-I'm Fluent in Markdown, Lua And Sometimes Python and Basic.
+You Can Find Where i Do Stuff on The Internet By [Clicking Here!](https://matttheliew2554.github.io/Web-Links/)
 
-### What Team I Work for?
+It will Redirect You to A page where all of my links are there.
 
-I formenly worked at [Putter Productions](https://discord.gg/proputterplayz) But now i do freelance stuff on the internet.
-
-### [Click me to show Matt's Links](https://matttheliew2554.github.io/Web-Links/)
-
-### Thanks For Taking Time To Read This Repository, And As Always, Stay creative.
+### Thanks For Reading, Stay Creative.
